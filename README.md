@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-This is a short description of the repository
+Hello, my name is CMcCumber
+
